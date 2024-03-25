@@ -3,6 +3,8 @@
 
 - 👨‍💻 My favorite project is [https://github.com/VictorCancado/blogsAPI/tree/main](https://github.com/VictorCancado/blogsAPI/tree/main)
 
+- 👨‍💻 My second favorite project is [https://github.com/VictorCancado/AppReceitas](https://github.com/VictorCancado/AppReceitas)
+
 - 📫 How to reach me **victor.cancado@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yPUHu6Ka7phlsoHdSQ9eXtT9SMm83_2e/view?usp=sharing](https://drive.google.com/file/d/1yPUHu6Ka7phlsoHdSQ9eXtT9SMm83_2e/view?usp=sharing)
